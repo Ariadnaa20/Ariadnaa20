@@ -17,7 +17,7 @@
 <p align="left">
   <!-- Enlace a tu repositorio de Java o perfil de Java -->
   <a href="URL_DEL_REPOSITORIO_JAVA">
-    <img src="URL_DE_LA_IMAGEN_JAVA" alt="Java" width="40" height="40"/>
+    <img src="java.png" alt="Java" width="40" height="40"/>
   </a>
   <!-- Repite el proceso para cada tecnología -->
   <a href="URL_DEL_REPOSITORIO_HTML">
