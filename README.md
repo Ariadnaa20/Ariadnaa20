@@ -12,8 +12,8 @@ Sobre mí
 🚀 Estoy emocionada por empezar a estudiar Swift y continuar expandiendo mis habilidades en desarrollo de software.
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
-
 ![Descripción de la imagen](https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp)
+
 
 
 
