@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400">
+  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400 border-radius="30"">
 </p>
 
 <h2 align="left">
@@ -19,6 +19,10 @@
 <h2 align="left">
   🚀Estoy emocionada por empezar a estudiar Swift y en constante aprendizaje y exploración de nuevas tecnologías.
 </h2>
+
+<p align="center">
+  <img src="URL-del-GIF" alt="Descripción del GIF" width="300" height="200"/>
+</p>
 
 <h2 align="left">Tecnologías:</h2>
 
