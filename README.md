@@ -8,12 +8,6 @@
   <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400" style="border-radius: 10px;"/>
 </p>
 
-<p>Progreso del Perfil:</p>
-<div style="background-color: #ddd; border-radius: 10px; padding: 3px;">
-  <div style="height: 20px; width: 50%; background-color: #4CAF50; border-radius: 5px;">
-    <div style="padding-left: 5px; color: white;">50%</div>
-  </div>
-</div>
 
 <h2 align="left">
   🌱Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell.
