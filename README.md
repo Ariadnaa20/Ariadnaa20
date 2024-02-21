@@ -20,7 +20,7 @@
     <img src="java.png" alt="Java" width="40" height="40"/>
   </a>
   <!-- Repite el proceso para cada tecnología -->
-  <a href="URL_DEL_REPOSITORIO_HTML">
+  <a href="https://github.com/Ariadnaa20/BASE-DE-DADES.git">
     <img src="sql.png" alt="HTML" width="40" height="40"/>
   </a>
   <a href="URL_DEL_REPOSITORIO_CSS">
