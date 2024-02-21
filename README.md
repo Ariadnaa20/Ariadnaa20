@@ -40,8 +40,12 @@
   </a>
    <a href="https://github.com/pelusinnidev/LaSalle---DAM-M04---Food4All.git">
     <img src="css.png" alt="CSS" width="80" height="40"/>
- 
+   </a>
+    <a href="https://github.com/Ariadnaa20/Learning-HTML-CSS-JAVASCRIPT-.git">
+    <img src="jss.png" alt="CSS" width="80" height="40"/>
+  </a>
 
+   
 <p align="left">Y alguna más...</p>
 
 <h5 align="left">¡Gracias por visitar mi perfil de GitHub!</h5>
