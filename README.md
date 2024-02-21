@@ -25,6 +25,8 @@
 </p>
 
 <h2 align="left">Tecnologías:</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnaa20&layout=compact&theme=vue&hide_border=true" alt="Top Langs">
+
 
 <p align="left">
   <!-- Enlace a tu repositorio de Java o perfil de Java -->
