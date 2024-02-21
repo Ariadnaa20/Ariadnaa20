@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400 style="border-radius="30">
+  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400 style="border-radius: 10px;">
 </p>
 
 <h2 align="left">
