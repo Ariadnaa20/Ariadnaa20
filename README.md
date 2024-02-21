@@ -5,11 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="500" height="400">
+  <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="100" height="400">
 </p>
 
 <h2 align="left">
-  Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell. Me encanta programar y crear aplicaciones que solucionen problemas reales. Estoy emocionada por empezar a estudiar Swift y en constante aprendizaje y exploración de nuevas tecnologías.
+  🌱Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell.
+  👩‍💻Me encanta programar y crear aplicaciones que solucionen problemas reales. 
+  🚀Estoy emocionada por empezar a estudiar Swift y en constante aprendizaje y exploración de nuevas tecnologías.
 </h2>
 
 <h2 align="left">Tecnologías:</h2>
