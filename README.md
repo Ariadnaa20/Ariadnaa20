@@ -12,7 +12,9 @@ Sobre mí
 🚀 Estoy emocionada por empezar a estudiar Swift y continuar expandiendo mis habilidades en desarrollo de software.
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
-![Tecnologías](https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/DALL%C2%B7E%202024-02-21%2016.37.27%20-%20Create%20an%20image%20that%20includes%20a%20collage%20of%20icons%20representing%20programming%20languages%20and%20technologies.%20Include%20icons%20for%20Java%2C%20HTML5%2C%20CSS3%2C%20JavaScript%2C.webpraw=true)
+![Tecnologías](https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/nombre-del-archivo.webp)
+
+
 
 
 ## Tecnologías que estoy aprendiendo:
