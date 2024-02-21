@@ -35,8 +35,8 @@
   <a href="https://github.com/Ariadnaa20/BASE-DE-DADES.git">
     <img src="sql.png" alt="HTML" width="80" height="40"/>
   </a>
-  <a href="URL_DEL_REPOSITORIO_CSS">
-    <img src="html.png" alt="CSS" width="40" height="40"/>
+  <a href="https://github.com/pelusinnidev/LaSalle---DAM-M04---Food4All.git">
+    <img src="html.png" alt="CSS" width="80" height="40"/>
   </a>
   <!-- ...y así con el resto de tecnologías -->
 </p>
