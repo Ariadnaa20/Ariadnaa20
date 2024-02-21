@@ -38,8 +38,9 @@
   <a href="https://github.com/pelusinnidev/LaSalle---DAM-M04---Food4All.git">
     <img src="html.png" alt="CSS" width="80" height="40"/>
   </a>
-  <!-- ...y así con el resto de tecnologías -->
-</p>
+   <a href="https://github.com/pelusinnidev/LaSalle---DAM-M04---Food4All.git">
+    <img src="css.png" alt="CSS" width="80" height="40"/>
+ 
 
 <p align="left">Y alguna más...</p>
 
