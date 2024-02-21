@@ -12,8 +12,8 @@ Sobre mí
 🚀 Estoy emocionada por empezar a estudiar Swift y continuar expandiendo mis habilidades en desarrollo de software.
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
+![Tecnologías]()
 
-![Descripción de la imagen](URL-de-la-imagen-en-tu-repositorio)
 
 ## Tecnologías que estoy aprendiendo:
 
