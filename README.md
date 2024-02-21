@@ -25,7 +25,7 @@
 <p align="left">
   <!-- Enlace a tu repositorio de Java o perfil de Java -->
   <a href="URL_DEL_REPOSITORIO_JAVA">
-    <img src="java.png" alt="Java" width="40" height="40"/>
+    <img src="java.png" alt="Java" width="80" height="40"/>
   </a>
   <!-- Repite el proceso para cada tecnología -->
   <a href="https://github.com/Ariadnaa20/BASE-DE-DADES.git">
