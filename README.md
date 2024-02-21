@@ -1,5 +1,7 @@
 # Hola, soy Ariadna 👋
 
+Estudiante apasionada de Desarrollo de Aplicaciones Multiplataforma 📱💻
+
 ```python
 if aprendizaje_continuo:
     print("¡Sigamos programando!")
@@ -11,20 +13,18 @@ Sobre mí
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
 
-Estudiante entusiasta de Desarrollo de Aplicaciones Multiplataforma 🚀
+## Tecnologías que estoy aprendiendo:
 
-Me apasiona la programación y estoy en constante aprendizaje, explorando tecnologías como Java, HTML, CSS, y más.
+![Java](ruta/a/la/imagen/java.png)
+![HTML5](ruta/a/la/imagen/html5.png)
+![CSS3](ruta/a/la/imagen/css3.png)
+![JavaScript](ruta/a/la/imagen/javascript.png)
+![XML](ruta/a/la/imagen/xml.png)
+![SQL](ruta/a/la/imagen/sql.png)
+![Bash Shell](ruta/a/la/imagen/bash.png)
 
-## Mis Tecnologías
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![XML](https://img.shields.io/badge/-XML-F7DF1E?style=for-the-badge&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](#)
-[![Bash Shell](https://img.shields.io/badge/-Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+![image](https://github.com/Ariadnaa20/Ariadnaa20/assets/153505443/341c9b95-1c07-46f5-ae17-333fb11f34de)
 
-## Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-enlace-de-linkedin)
+¡Gracias por visitar mi perfil de GitHub!
 
 ¡Gracias por visitar mi perfil de GitHub!
