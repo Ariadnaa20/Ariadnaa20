@@ -12,7 +12,7 @@ Sobre mí
 🚀 Estoy emocionada por empezar a estudiar Swift y continuar expandiendo mis habilidades en desarrollo de software.
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
-![Tecnologías]()
+![Tecnologías](DALL·E 2024-02-21 16.37.27 - Create an image that includes a collage of icons representing programming languages and technologies. Include icons for Java, HTML5, CSS3, JavaScript,.webp)
 
 
 ## Tecnologías que estoy aprendiendo:
