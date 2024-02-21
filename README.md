@@ -33,7 +33,7 @@
 
 <p align="left">Y alguna más...</p>
 
-<p align="left">¡Gracias por visitar mi perfil de GitHub!</p>
+<h5 align="left">¡Gracias por visitar mi perfil de GitHub!</h5>
 
 
 
