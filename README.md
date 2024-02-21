@@ -13,6 +13,9 @@ Sobre mí
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
 
+![Descripción de la imagen](DALL·E 2024-02-21 16.37.27 - Create an image that includes a collage of icons representing programming languages and technologies. Include icons for Java, HTML5, CSS3, JavaScript,.webp)
+
+
 ## Tecnologías que estoy aprendiendo:
 
 
