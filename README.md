@@ -10,7 +10,13 @@
 
 <h2 align="left">
   🌱Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell.
-  👩‍💻Me encanta programar y crear aplicaciones que solucionen problemas reales. 
+</h2>
+
+<h2 align="left">
+  👩‍💻Me encanta programar y crear aplicaciones que solucionen problemas reales.
+</h2>
+
+<h2 align="left">
   🚀Estoy emocionada por empezar a estudiar Swift y en constante aprendizaje y exploración de nuevas tecnologías.
 </h2>
 
