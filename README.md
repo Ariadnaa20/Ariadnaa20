@@ -13,8 +13,24 @@
 </h2>
 
 <h2 align="left">Tecnologías que estoy aprendiendo:</h2>
+<h2 align="left">Tecnologías:</h2>
 
-<!-- Aquí puedes añadir las imágenes de las tecnologías o dejarlo como texto -->
+<p align="left">
+  <!-- Enlace a tu repositorio de Java o perfil de Java -->
+  <a href="URL_DEL_REPOSITORIO_JAVA">
+    <img src="URL_DE_LA_IMAGEN_JAVA" alt="Java" width="40" height="40"/>
+  </a>
+  <!-- Repite el proceso para cada tecnología -->
+  <a href="URL_DEL_REPOSITORIO_HTML">
+    <img src="URL_DE_LA_IMAGEN_HTML" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="URL_DEL_REPOSITORIO_CSS">
+    <img src="URL_DE_LA_IMAGEN_CSS" alt="CSS" width="40" height="40"/>
+  </a>
+  <!-- ...y así con el resto de tecnologías -->
+</p>
+
+<p align="left">Y alguna más...</p>
 
 <p align="left">¡Gracias por visitar mi perfil de GitHub!</p>
 
