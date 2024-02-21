@@ -21,7 +21,7 @@
 </h2>
 
 <p align="center">
-  <img src="URL-del-GIF" alt="Descripción del GIF" width="300" height="200"/>
+  <img src="programacion.gif" alt="Descripción del GIF" width="300" height="200"/>
 </p>
 
 <h2 align="left">Tecnologías:</h2>
