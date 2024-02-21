@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ariadna 👋</h1>
 
 <p align="center">
-  <strong>Estudiante de Desarrollo de Aplicaciones Multiplataforma 🚀</strong>
+  <strong>I'm developer. Desarrollo Aplicaciones Multiplataforma 🚀</strong>
 </p>
 
 <p align="center">
