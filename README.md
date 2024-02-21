@@ -21,7 +21,7 @@
   </a>
   <!-- Repite el proceso para cada tecnología -->
   <a href="https://github.com/Ariadnaa20/BASE-DE-DADES.git">
-    <img src="sql.png" alt="HTML" width="40" height="40"/>
+    <img src="sql.png" alt="HTML" width="80" height="40"/>
   </a>
   <a href="URL_DEL_REPOSITORIO_CSS">
     <img src="URL_DE_LA_IMAGEN_CSS" alt="CSS" width="40" height="40"/>
