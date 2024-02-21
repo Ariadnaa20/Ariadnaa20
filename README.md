@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías">
 </p>
 
-<p align="left">
+<h2 align="left">
   Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell. Me encanta programar y crear aplicaciones que solucionen problemas reales. Estoy emocionada por empezar a estudiar Swift y en constante aprendizaje y exploración de nuevas tecnologías.
-</p>
+</h2>
 
 <h2 align="left">Tecnologías que estoy aprendiendo:</h2>
 
