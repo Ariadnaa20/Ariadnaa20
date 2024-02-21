@@ -13,7 +13,7 @@ Sobre mí
 📖 En constante aprendizaje y exploración de nuevas tecnologías.
 
 
-![Descripción de la imagen]()
+![Descripción de la imagen](https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp)
 
 
 
