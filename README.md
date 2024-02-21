@@ -8,6 +8,17 @@
   <img src="https://raw.githubusercontent.com/Ariadnaa20/Ariadnaa20/main/lenguaje_portada%20(1).webp" alt="Tecnologías" width="1000" height="400" style="border-radius: 10px;"/>
 </p>
 
+<p align="left">
+  ¡Hola! Soy <strong>Ariadna</strong>, una estudiante entusiasta de <strong>Desarrollo de Aplicaciones Multiplataforma</strong> con un fuerte interés por los lenguajes de programación y una pasión inagotable por aprender. Actualmente, me estoy sumergiendo en el mundo del código a través de <strong>Java, HTML, CSS, JavaScript, XML,</strong> y <strong>SQL</strong>, y estoy disfrutando cada desafío que estas tecnologías presentan.
+</p>
+<p align="left">
+  Me fascina la capacidad de crear soluciones funcionales y elegantes a problemas complejos, y cada día me siento más emocionada por el camino que tengo por delante. Estoy comprometida con el aprendizaje continuo y ansiosa por comenzar a explorar <strong>Swift</strong> y otras tecnologías emergentes. Mi objetivo es convertirme en una desarrolladora versátil y eficiente, capaz de construir aplicaciones impresionantes y significativas.
+</p>
+<p align="left">
+  Fuera del teclado, disfruto contribuir a la comunidad y compartir mi viaje de aprendizaje con otros. Si quieres saber más sobre mi trabajo o simplemente conectar, ¡no dudes en alcanzarme!
+</p>
+
+
 <h2 align="left">
   🌱Estoy aprendiendo Java, HTML, CSS, JavaScript, XML, SQL y Sistemas Informáticos con Bash Shell.
 </h2>
